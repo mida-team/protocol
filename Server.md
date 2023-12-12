@@ -97,7 +97,7 @@ The message looks like this:
 
 | Sent by    | Event                |
 | ---------- | -------------------- |
-| ↗          | [Client Connection](Server.md#client%20connection)    |
-| ↙          | [Server metadata](Server.md#server%20metadata)      |
+| ↗          | [Client Connection](Server.md#client%20-connection)    |
+| ↙          | [Server metadata](Server.md#server%20-metadata)      |
 | ↙          | [Auth](Server.md#auth)                 |
 
