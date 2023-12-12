@@ -1,6 +1,3 @@
----
-share: true
----
 # Server
 The format for a message is the following:
 ```json
